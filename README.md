@@ -6,7 +6,7 @@ The focus of this session was to train a dataset using a Convolutional Neural Ne
 # Concepts Covered:
 Building and training a Convolutional Neural Network (CNN).
 
-Working with TensorFlow libraries like:
+Working with TensorFlow libraries like:  
 Dense  
 Conv2D  
 MaxPooling2D and more.  
