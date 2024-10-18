@@ -24,7 +24,7 @@ https://github.com/avadhut-noola/Dog_Cat_Classifier
 Install the required packages:  
 
 ```
-pip install -r requirements.txt
+pip install packages
 ```
 Run the Jupyter Notebook / Google Collab  
 
