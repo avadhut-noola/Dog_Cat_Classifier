@@ -4,18 +4,18 @@ This repository contains the work completed during the GenAI Study Jam organized
 The focus of this session was to train a dataset using a Convolutional Neural Network (CNN), leveraging the power of TensorFlow and its extensive library ecosystem.
 
 # Concepts Covered:
--Building and training a Convolutional Neural Network (CNN).
--Working with TensorFlow libraries like:
--Dense
--Conv2D
--MaxPooling2D and more.
--Fundamentals of image classification and deep learning models.
+Building and training a Convolutional Neural Network (CNN).
+
+Working with TensorFlow libraries like:
+Dense
+Conv2D
+MaxPooling2D and more.
+Fundamentals of image classification and deep learning models.
 
 # Technologies Used:
 Python
 TensorFlow
 Keras
-Jupyter Notebooks
 
 # How to Run:
 Clone this repository:
